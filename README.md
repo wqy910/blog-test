@@ -17,6 +17,8 @@
 
 虽然学过很多,但学的啥也不是.接下来的日子好好跟着方方老师学习前端.
 
+这是`一行代码`
+
 ```JavaScript
 function f(){
   console.log('hello world')
